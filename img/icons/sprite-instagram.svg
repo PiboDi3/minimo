@@ -1,0 +1,7 @@
+<svg width="0" height="0">
+  <symbol fill="#b4ac9e" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 32 32" id="instagram">
+    <path fill="none" fill-rule="evenodd" stroke="#b4ac9e" stroke-miterlimit="10" stroke-width="2" d="M8,26h16c1.105,0,2-0.895,2-2V8c0-1.105-0.895-2-2-2H8C6.895,6,6,6.895,6,8v16C6,25.105,6.895,26,8,26z" clip-rule="evenodd"></path>
+    <path fill="none" fill-rule="evenodd" stroke="#b4ac9e" stroke-miterlimit="10" stroke-width="2" d="M16 11A5 5 0 1 0 16 21A5 5 0 1 0 16 11Z" clip-rule="evenodd"></path>
+    <path fill-rule="evenodd" d="M6,6v8h5.349c0.825-2.329,2.04-3,4.651-3s3.827,0.671,4.651,3H26V6H6z M24,11h-3V8h3V11z" clip-rule="evenodd"></path>
+  </symbol>
+</svg>
